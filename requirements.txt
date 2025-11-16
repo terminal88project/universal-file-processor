@@ -1,0 +1,13 @@
+﻿# Universal File Processor - Dependencies
+
+# CLI and UI
+questionary>=2.0.0
+rich>=13.7.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Optional (در صورت نیاز)
+# ffmpeg-python>=0.2
+# pandas>=2.0.0
+# openpyxl>=3.0.0
