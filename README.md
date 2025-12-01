@@ -281,15 +281,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Modification
 - ✅ Distribution
 - ✅ Private use
-- ❌ Liability
-- ❌ Warranty
+
 
 ## 💬 Support
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: terminal88project@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/terminal88project/universal-file-processor/issues)
 - 📖 **Documentation**: [Full Documentation](https://docs.your-site.com)
-- 💰 **Sponsor**: [Support the project](https://github.com/sponsors/username)
+- 💰 **Sponsor**: [Support the project](https://github.com/sponsors/terminal88project)
 
 ## 🙏 Acknowledgments
 
